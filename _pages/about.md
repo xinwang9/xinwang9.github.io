@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Xin's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Xin Wang received a B.E. degree in Electrical Engineering and Automation from China University of Mining and Technology, Xuzhou, China, in 2015, and a Ph.D. degree in Control Science and Engineering from Zhejiang University, Hangzhou, China, in 2020, under the supervision of Prof. [Peng Cheng](https://person.zju.edu.cn/en/cp) (Changjiang Scholars Professor) and Prof. [Jiming Chen](https://person.zju.edu.cn/en/jmchen) (Changjiang Scholars Professor, IEEE Fellow). From 2018 to 2019, he was a visiting scholar in the Department of Computer Science, Tokyo Institute of Technology, Yokohama, Japan, working with Prof. [Hideaki Ishii](https://www.scl.ipc.i.u-tokyo.ac.jp/ishii/index.html) (Professor in The University of Tokyo, IEEE Fellow). Since 2020, he has been with Shandong Computer Science Center, Qilu University of Technology (Shandong Academy of Sciences), Jinan, China, where he is currently a professor and a master supervisor. 
+
 
 A data-driven personal website
 ======
